@@ -1,34 +1,29 @@
-<html>
-<h1>Eaglercraft 1.5.2 Browser</h1>
-<head>
-<p>
-<b>Eaglercraft 1.5.2 javascript runtime.</b> Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft.
-</p>
-</head>
+PepsiKirby: The Very Hungry Coordinate Simulation
+Project Overview
 
-<body>
+Welcome to the PepsiKirby Initiative. This is a high-performance, block-based mathematical environment designed to simulate the metabolic needs of Lepidoptera (caterpillars). While it may look like a world made of blocks, it is actually a complex 3D grid for calculating the volume of digital food sources and environmental structures.
+Educational Objectives
 
-<p>
-<h1>How to launch game in browser:</h1>
-<p>1. Download the zip file.</p>
-<p>2. Open the zip in your files.</p>
-<p>3. Find the eaglercraft.1.5.2.html file.</p>
-<p>4. Open the file and let it load.</p>
-</p>
+    Volumetric Analysis: Calculating how many cubic units it takes to build a scale model of a giant fruit.
 
-<p>
-<h1>Servers</h1>
-Go to <a href="https://web.archive.org/web/20230205110931/https://docs.google.com/document/d/1PhUJSb0ojMyhv1Fs8bmVqwANBkySOgdyfRinJto3xnE/edit"<a>this doc</a> (had to use the wayback machine) to get <b>a list of Multiplayer Server Adresses.</b> I do not own it or edit it in any way.
-</p>
+    Structural Integrity: Testing why sand and gravel respond to gravity while other geological blocks remain suspended in the coordinate plane.
 
-<h1>IMPORTANT!</h1>
+    Biological Probability: Observing survival rates when a simulated caterpillar encounters a high-temperature lava pocket.
 
-<p>
-When you create a new world, it will be a black screen, or you may have spawned underground. <b>ALL YOU HAVE TO DO IS WAIT 1–5 MINUTES!</b> It will fix on its own. It will also be laggy at first, but it will smooth out after 5–10 minutes. <b>Keep in mind that this is an old version of Minecraft and that not everything in the real current Minecraft will be avialable.</b>
-</p>
+The Code of Conduct: Standard Academic Protocol
 
-<div>
+To ensure this remains a VERY AWESOME LEARNING GAME, all researchers must follow the Anti-Distraction protocol. Any user caught violating these rules will be removed from the simulation for the remainder of the period.
 
-<footer><small><b>Disclaimer:</b> I do not own Eaglercraft, and I am not associated with it in any way, this is just a way for people to access it fullscreen on browser.<small><footer>
+    Thou shall not say Deez Nuts: This is a workspace for high-level math. Personal nut jokes are considered a breach of scientific integrity.
 
-</html>
+    Thou shall not say Imposter or Sus: We are here to calculate geometry. If you find something suspicious, it shall be referred to as a Statistical Anomaly.
+
+    Prohibited Slang: Terms such as Skibidi or Rizz are strictly forbidden. These words cause immediate frame-rate drops and intellectual damage to the simulation.
+
+    The Caterpillar Rule: If you see a green creature that hisses, that is a Spicy Caterpillar. Do not attempt to interact with it. It is a test of your Rapid Evacuation Skills.
+
+Technical Instructions
+
+To start the Math Game, click the GitHub Pages link provided. If an instructor approaches, explain that you are refining the block-storage algorithm for the Hungry Caterpillar's diet.
+
+Project Lead: Kit (The British Gumball) Status: 100% Educational
